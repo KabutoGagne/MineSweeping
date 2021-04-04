@@ -1,0 +1,45 @@
+*{
+	padding:0;margin:0
+}
+#mine {
+	margin:45px auto 0;width:500px;height:auto;
+	
+}
+.level {
+	text-align: center;margin-bottom: 20px;
+}
+button {
+	padding:5px 15px;background-color: green;color:white;border-radius: 4px;border:none;
+	outline: none;
+}
+.active {
+	background-color: deepskyblue;
+}
+table {
+	border-spacing: 1px;margin:0 auto;border: 1px solid #b5b5b5;
+}
+td {
+	border: 2px solid;width:20px;height:20px;
+	border-color:#dcdcdc #b4b4b4 #b4b4b4 #dcdcdc;background-color: #B4B4B4;
+}
+.lei {
+	background-color: black;
+}
+.flag {
+	background-color: red;
+}
+.one {background-color: #dadada;
+	border:none !important;color:green;text-align:center;line-height:20px;
+}
+.two {background-color: #dadada;
+	border:none !important;color:blue;text-align:center;line-height:20px;
+}
+.three {background-color: #dadada;
+	border:none !important;color:yellow;text-align:center;line-height:20px;
+}
+.four {background-color:  #dadada;
+	border:none !important;color:purple;text-align:center;line-height:20px;
+}
+.zero {background-color:  #dadada;
+	border:none !important;
+}
